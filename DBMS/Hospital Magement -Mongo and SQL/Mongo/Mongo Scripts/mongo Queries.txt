@@ -1,0 +1,25 @@
+     // Query to upload images
+mongofiles -d database put Medical_X-Ray_image.jpg
+//Query to retrieve images
+  mongofiles -d database get Medical_X-Ray_image.jpg
+     //Query to delete images
+  mongofiles -d database delete Medical_X-Ray_image.jpg
+//Query to upload videos
+mongofiles.exe -d gridfs put sample.mp3
+//The below query uploads the bson data
+./mongofiles –port 28017 -d gridfs put people.bson
+
+//The below query returns the information from collection fs.files
+db.fs.files.find()
+
+//Expected result
+{
+   _id: ObjectId('534a811bf8b4aa4d33fdf94d'), 
+   filename: "sample.mp3", 
+   chunkSize: 261120, 
+   uploadDate: new Date(1397391643474), md5: "e4f53379c909f7bed2e9d631e15c1c41",
+   length: 10401959 
+}
+    //The below query returns the chunk information from collection fs.chunks
+db.fs.chunks.findOne({files_id:ObjectId(' 5a224e79d49586ca08bc869f ')})
+The above query returns one of the chunks of the file with ID 5a224e79d49586ca08bc869f
