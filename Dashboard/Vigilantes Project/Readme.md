@@ -12,7 +12,7 @@ Dashboard that  It provides information about safe and affordable places at SFO 
 Pipeline - The_Vigilantes SFO Crime & Housing.pdf:
 Contains information about the project plan and execution
 
-Python code and Tableau file folders:
-Contains Data extraction code and the final dashboard files
+Vigilantes- Python Data cleaning code.html:
+Contains Data cleansing and extraction code 
 
 
