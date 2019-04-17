@@ -6,13 +6,13 @@ a misdemeanor or felony within 2 years of assessment from 137 features about an 
 
 Analyzed the COMPAS recidivism data using Python and identified the best features and machine learning model to predict recidivism. 
 Classification models Used: 
-1.	Probabilistic model: Logistic Regression, Naïve Bayes
-2.	Linear Model: Support Vector Machine (SVM)
-3.	Decision Model: Random Forest
-4.	Non-Linear Model: K-Nearest Neighbor (KNN)
+            * Probabilistic model: Logistic Regression, Naïve Bayes
+            * Linear Model: Support Vector Machine (SVM)
+            * Decision Model: Random Forest
+            * Non-Linear Model: K-Nearest Neighbor (KNN)
 
-PPT - Machine Learning Project Analysis on COMPAS Recidivism.pdf:
+1. PPT - Machine Learning Project Analysis on COMPAS Recidivism.pdf:
 Presentation on analysis of COMPAS data and the findings
 
-Machine_Learning_Project_Final_Submission_V1.html:
+2. Machine_Learning_Project_Final_Submission_V1.html:
 Python executable
