@@ -1,5 +1,5 @@
 
-                                                                Introduction
+                                                             Introduction
 
 Vigilantes is a site for buyers and renters to find homes and neighborhoods that are safe and affordable across San Francisco. It provides recommendations through map overlays that offer details on Crime, Crime trends, Housing, Rent and Schools for the neighborhood.
 
