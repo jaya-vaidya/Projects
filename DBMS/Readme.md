@@ -8,3 +8,6 @@ Provides complete report on the design, achitecture, build and execution of the 
 
 PPT - Hospital Management Using MongoDB and MySQL.pdf:
 Powerpoint presentation on Hospital management application using MongoDB and NoSQL
+
+Hospital Magement -Mongo and SQL folder:
+Contains all executables
