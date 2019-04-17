@@ -9,3 +9,10 @@ Dashboard that provides housing and rental recommendations based on a Livability
 The Vigilantes - SFO Crime & Housing.pdf:
 Dashboard that  It provides information about safe and affordable places at SFO through map overlays based on Crime, Crime trends, Housing, Rent and Schools for the neighborhood.
 
+Pipeline - The_Vigilantes SFO Crime & Housing.docx:
+Contains information about the project plan and execution
+
+Python code and Tableau file folders:
+Contains Data extraction code and the final dashboard files
+
+
