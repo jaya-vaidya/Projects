@@ -14,5 +14,5 @@ Classification models Used:
 PPT - Machine Learning Project Analysis on COMPAS Recidivism.pdf:
 Presentation on analysis of COMPAS data and the findings
 
-Machine_Learning_Project_Final_Submission_V1:
+Machine_Learning_Project_Final_Submission_V1.html:
 Python executable
