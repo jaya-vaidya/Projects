@@ -1,5 +1,11 @@
                                                               Introduction
-Healthify is recognized for its advanced patient care and technology.  Today, our expertise covers all specialties, from cancer to women's health. In addition, the compassionate care provided by our doctors, nurses and other staff is a key to our success. Our vision is to make health management easier and faster for patients by connecting them with doctors and pharmacies.
+Healthify is recognized for its advanced patient care and technology. Our vision is to make health management easier and faster for patients by connecting them with doctors and pharmacies.
+
+Provided overall project management strategy emphasizing on Return on Investment (ROI). Awarded Best Project Proposal by judges from VmWare.    
+
+Files: 
+Healthify Presentation.pptx - Pitch presentation of the project proposal.
+Healthify Report.ppt - Detailed report on the project proposal, requirements,strategies, ROI, ROV and User scenario 
 
                                                              Existing System
 Our Current system includes a health management portal that provides facility to Register patients, Doctors and Pharmacies, maintain their information, search for a Doctor as per necessity and schedule an online appointment.
