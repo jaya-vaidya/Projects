@@ -1,7 +1,8 @@
                                                               Introduction
 Healthify is recognized for its advanced patient care and technology. Our vision is to make health management easier and faster for patients by connecting them with doctors and pharmacies.
 
-Provided overall project management strategy emphasizing on Return on Investment (ROI). Awarded Best Project Proposal by judges from VmWare.    
+Provided overall project management strategy emphasizing on Return on Investment (ROI). 
+Awarded Best Project Proposal by judges from VmWare.    
 
 Files: 
 Healthify Presentation.pptx - Pitch presentation of the project proposal.
