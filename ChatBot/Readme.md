@@ -2,7 +2,7 @@
 BroncoBot is one stop interactive ChatBot that provides in and out information available on Santa Clara University - Leavy B-school website through user chat interface. User can key in any question regarding the University, admissions or any day to day events happening in Leavy B- school and the ChatBot will be more than happy to answer!
 
                                                       Tools and Technologies 
-•	Python: Natural Language Processing (NLP), NumPy, pandas, 
+•	Python: Natural Language Processing (NLP), NumPy, pandas
 •	Database: postgresSQL DB
 •	UI: Flask framework
 
