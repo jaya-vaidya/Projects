@@ -7,5 +7,5 @@
 •	Utilized Python libraries like numpy, pandas, sklearn, seaborn, matplotlib, plotly, pydotplus and others <br />
 
                                                     Files
-Python_Project_Final.pdf - Contains Python code and findings
+Python_Project_Final.pdf - Contains Python code and findings <br />
 Final Python Project.pptx - Presentation on analysis and prediction of USA statistics and census data
