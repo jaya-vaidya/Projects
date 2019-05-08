@@ -8,7 +8,9 @@ SMART App finder is one place for user to explore, compare and identify the best
 3. To Analyze the trends among  applications of same genre
 
                                                            Files
-The Tableau dashboards can be found in the google drive link: https://drive.google.com/open?id=1phUkGFj1LTw9AqH9BAnlbWcNXgaV5snc (Size exceeds 25MB)
+•	The Tableau dashboards can be found in the google drive link: https://drive.google.com/open?id=1phUkGFj1LTw9AqH9BAnlbWcNXgaV5snc (Size exceeds 25MB)
+•	Smart_App_Finder_Pipeline.pdf - Provides pipeline about SMART App finder
+
 
 
 
