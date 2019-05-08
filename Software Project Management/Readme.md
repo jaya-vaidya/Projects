@@ -4,7 +4,7 @@ Healthify is recognized for its advanced patient care and technology. Our vision
 Provided overall project management strategy emphasizing on Return on Investment (ROI). 
 Awarded Best Project Proposal by judges from VmWare.    
 
-                                                                Files: 
+                                                                Files
 Healthify Presentation.pptx - Pitch presentation of the project proposal.
 Healthify Report.ppt - Detailed report on the project proposal, requirements,strategies, ROI, ROV and User scenario 
 
