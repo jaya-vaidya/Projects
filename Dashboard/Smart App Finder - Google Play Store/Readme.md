@@ -8,8 +8,8 @@ SMART App finder is one place for user to explore, compare and identify the best
 3. To Analyze the trends among  applications of same genre
 
                                                            Files
-a. Smart_App_Finder_Google_Play_Store.pdf - Contains the Tableau dashboards
-b. Smart_App_Finder_Pipeline.pdf - Provides pipeline about SMART App finder
+a. Smart_App_Finder_Google_Play_Store.pdf - Contains the Tableau dashboards <br />
+b. Smart_App_Finder_Pipeline.pdf - Provides pipeline about SMART App finder 
 
 
 
