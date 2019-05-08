@@ -7,8 +7,7 @@ Database: postgresSQL DB
 UI: Flask framework
 
                                                             Files
-UI.pdf - Sample User interaction with the chatBot
-BroncoBot - Sample Code
-                                                            
-
+•	UI.pdf - Sample User interaction with the chatBot
+•	BroncoBot - Sample Code
+                                                         
 Note: This is on going project. Prototype of the project is completed. Working on increasing the efficiency and accuracy.
