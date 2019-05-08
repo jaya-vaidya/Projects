@@ -10,6 +10,8 @@ Classification models Used:
             * Linear Model: Support Vector Machine (SVM)
             * Decision Model: Random Forest
             * Non-Linear Model: K-Nearest Neighbor (KNN)
+                      
+                                                           FILES
 
 1. PPT - Machine Learning Project Analysis on COMPAS Recidivism.pdf:
 Presentation on analysis of COMPAS data and the findings
