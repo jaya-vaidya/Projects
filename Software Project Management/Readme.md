@@ -5,8 +5,8 @@ Provided overall project management strategy emphasizing on Return on Investment
 Awarded Best Project Proposal by judges from VmWare.    
 
                                                                 Files
-Healthify Presentation.pptx - Pitch presentation of the project proposal.
-Healthify Report.ppt - Detailed report on the project proposal, requirements,strategies, ROI, ROV and User scenario 
+Healthify Presentation.pdf - Pitch presentation of the project proposal.
+Healthify Report.pdf - Detailed report on the project proposal, requirements,strategies, ROI, ROV and User scenario 
 
                                                              Existing System
 Our Current system includes a health management portal that provides facility to Register patients, Doctors and Pharmacies, maintain their information, search for a Doctor as per necessity and schedule an online appointment.
