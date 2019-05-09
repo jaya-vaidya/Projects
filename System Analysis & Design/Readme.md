@@ -5,5 +5,5 @@ Donors (Farms, restaurants, cafeterias, hotels and grocery stores) post excess f
 
                                                           Files
 •	ISAD - RethinkRefeed.pdf - Detail report on the Business requirement, System desingn,timeline nad Use cases <br />
-•	RethinkRefeedPresentation - revised.pptx - Presentation on ReTHINK, ReFEED’ platform
+•	RethinkRefeedPresentation.pdf - Presentation on ReTHINK, ReFEED application
 
