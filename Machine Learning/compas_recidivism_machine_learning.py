@@ -50,15 +50,11 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 from sklearn.cross_validation import cross_val_score
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import RidgeCV
-from sklearn.linear_model import LassoCV
 from sklearn.decomposition import PCA
 from sklearn.cross_decomposition import PLSRegression
 from sklearn.metrics import classification_report
 from sklearn.model_selection import KFold
 import sklearn as sk
-
 from pandas.tools.plotting import scatter_matrix
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import pyplot as plt
