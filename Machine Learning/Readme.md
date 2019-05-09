@@ -19,5 +19,5 @@ Presentation on analysis of COMPAS data and the findings
 2. Machine_Learning_Project_Final_Submission_V1.html:
 Code in html file
 
-3. compas_recidivism_machine_learning.py:
+3. compas_recidivism_code.py:
 Python executables
