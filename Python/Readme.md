@@ -8,5 +8,5 @@
 
                                                     Files
 •	Python_Project_Final.pdf - Contains Python code and findings in pdf file <br />
-•	Final Python Project.pptx - Presentation on analysis and prediction of USA statistics and census data <br />
+•	USA STATISTICS_Python_PPT.pdf - Presentation on analysis and prediction of USA statistics and census data <br />
 •	Python_Code.py - Python executables
