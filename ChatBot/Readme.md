@@ -9,5 +9,6 @@ BroncoBot is one stop interactive ChatBot that provides in and out information a
                                                             Files
 •	UI.pdf - Sample User interaction with the chatBot <br />
 •	BroncoBot - Sample Code <br />
+•	BroncoBot_PPT.pdf - Presentation on the Chatbot
+
                                                          
-Note: This is on going project. Prototype of the project is completed. Working on increasing the efficiency and accuracy.
