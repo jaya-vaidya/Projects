@@ -7,7 +7,7 @@ BroncoBot is one stop interactive ChatBot that provides in and out information a
 •	UI: Flask framework
 
                                                             Files
-•	UI.pdf - Sample User interaction with the chatBot <br />
+•	UI.pdf - Sample User interaction with the Chatbot <br />
 •	BroncoBot - Sample Code <br />
 •	BroncoBot_PPT.pdf - Presentation on the Chatbot
 
